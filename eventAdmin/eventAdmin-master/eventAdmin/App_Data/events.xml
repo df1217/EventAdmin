@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<ArrayOfEventProps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EventProps>
+    <ID>2</ID>
+    <userID>1</userID>
+    <date>2015-09-30T09:16:11.9768889-07:00</date>
+    <title>Second Event</title>
+    <description>This is the description of the second event</description>
+    <ConcurrencyID>0</ConcurrencyID>
+  </EventProps>
+  <EventProps>
+    <ID>1</ID>
+    <userID>2</userID>
+    <date>2015-09-30T09:16:11.9768889-07:00</date>
+    <title>First Event</title>
+    <description>This is the description of the first event</description>
+    <ConcurrencyID>1</ConcurrencyID>
+  </EventProps>
+  <EventProps>
+    <ID>3</ID>
+    <userID>2</userID>
+    <date>2015-09-30T09:16:11.9768889-07:00</date>
+    <title>Third Event</title>
+    <description>This is the description of the third event</description>
+    <ConcurrencyID>0</ConcurrencyID>
+  </EventProps>
+  <EventProps>
+    <ID>6</ID>
+    <userID>1</userID>
+    <date>2015-09-30T09:16:11.9768889-07:00</date>
+    <title>Sixth Event</title>
+    <description>This is the description of the sixth event</description>
+    <ConcurrencyID>1</ConcurrencyID>
+  </EventProps>
+  <EventProps>
+    <ID>7</ID>
+    <userID>1</userID>
+    <date>2015-10-05T00:00:00</date>
+    <title>First Event Added</title>
+    <description>I added this event on the add event page</description>
+    <ConcurrencyID>1</ConcurrencyID>
+  </EventProps>
+  <EventProps>
+    <ID>8</ID>
+    <userID>1</userID>
+    <date>2015-10-07T00:00:00</date>
+    <title>Second Added Event</title>
+    <description>This is the description of the second event I added with the add event page</description>
+    <ConcurrencyID>1</ConcurrencyID>
+  </EventProps>
+  <EventProps>
+    <ID>10</ID>
+    <userID>1</userID>
+    <date>2015-10-21T00:00:00</date>
+    <title>Fourth Added Event</title>
+    <description>This is the description of the 4th event I added with the add event page</description>
+    <ConcurrencyID>1</ConcurrencyID>
+  </EventProps>
+  <EventProps>
+    <ID>11</ID>
+    <userID>1</userID>
+    <date>2015-10-28T00:00:00</date>
+    <title>Another added event</title>
+    <description>One more event that I added with the add event page</description>
+    <ConcurrencyID>1</ConcurrencyID>
+  </EventProps>
+</ArrayOfEventProps>

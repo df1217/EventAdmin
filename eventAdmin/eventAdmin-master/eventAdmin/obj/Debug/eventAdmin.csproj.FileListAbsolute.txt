@@ -1,0 +1,36 @@
+C:\Users\Patrick\Desktop\code\eventAdminSolution\eventAdmin\bin\eventAdmin.dll.config
+C:\Users\Patrick\Desktop\code\eventAdminSolution\eventAdmin\bin\eventAdmin.pdb
+C:\Users\Patrick\Desktop\code\eventAdminSolution\eventAdmin\obj\Debug\eventAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\code\eventAdminSolution\eventAdmin\obj\Debug\eventAdmin.dll
+C:\Users\Patrick\Desktop\code\eventAdminSolution\eventAdmin\obj\Debug\eventAdmin.pdb
+C:\Users\Patrick\Desktop\code\eventAdminSolution\eventAdmin\bin\EventClasses.pdb
+C:\Users\Patrick\Desktop\code\eventAdminSolution\eventAdmin\bin\EventDBClasses.pdb
+C:\Users\Patrick\Desktop\code\eventAdminSolution\eventAdmin\bin\EventPropsClasses.pdb
+C:\Users\Patrick\Desktop\code\eventAdminSolution\eventAdmin\bin\ToolsCSharp.pdb
+C:\Users\Patrick\Desktop\code\eventAdmin\eventAdmin\bin\eventAdmin.dll.config
+C:\Users\Patrick\Desktop\code\eventAdmin\eventAdmin\bin\eventAdmin.pdb
+C:\Users\Patrick\Desktop\code\eventAdmin\eventAdmin\bin\EventClasses.pdb
+C:\Users\Patrick\Desktop\code\eventAdmin\eventAdmin\bin\EventDBClasses.pdb
+C:\Users\Patrick\Desktop\code\eventAdmin\eventAdmin\bin\EventPropsClasses.pdb
+C:\Users\Patrick\Desktop\code\eventAdmin\eventAdmin\bin\ToolsCSharp.pdb
+C:\Users\Patrick\Desktop\code\eventAdmin\eventAdmin\obj\Debug\eventAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Patrick\Desktop\code\eventAdmin\eventAdmin\obj\Debug\eventAdmin.dll
+C:\Users\Patrick\Desktop\code\eventAdmin\eventAdmin\obj\Debug\eventAdmin.pdb
+E:\School\Fall 2016\CS 295N - ASP.net\Lab 3\In-Progress\eventAdmin\eventAdmin-master\eventAdmin\bin\eventAdmin.dll.config
+E:\School\Fall 2016\CS 295N - ASP.net\Lab 3\In-Progress\eventAdmin\eventAdmin-master\eventAdmin\bin\eventAdmin.pdb
+E:\School\Fall 2016\CS 295N - ASP.net\Lab 3\In-Progress\eventAdmin\eventAdmin-master\eventAdmin\bin\EventClasses.pdb
+E:\School\Fall 2016\CS 295N - ASP.net\Lab 3\In-Progress\eventAdmin\eventAdmin-master\eventAdmin\bin\EventDBClasses.pdb
+E:\School\Fall 2016\CS 295N - ASP.net\Lab 3\In-Progress\eventAdmin\eventAdmin-master\eventAdmin\bin\EventPropsClasses.pdb
+E:\School\Fall 2016\CS 295N - ASP.net\Lab 3\In-Progress\eventAdmin\eventAdmin-master\eventAdmin\bin\ToolsCSharp.pdb
+E:\School\Fall 2016\CS 295N - ASP.net\Lab 3\In-Progress\eventAdmin\eventAdmin-master\eventAdmin\obj\Debug\eventAdmin.csprojResolveAssemblyReference.cache
+E:\School\Fall 2016\CS 295N - ASP.net\Lab 3\In-Progress\eventAdmin\eventAdmin-master\eventAdmin\obj\Debug\eventAdmin.dll
+E:\School\Fall 2016\CS 295N - ASP.net\Lab 3\In-Progress\eventAdmin\eventAdmin-master\eventAdmin\obj\Debug\eventAdmin.pdb
+E:\eventAdmin1\eventAdmin\eventAdmin-master\eventAdmin\bin\eventAdmin.dll.config
+E:\eventAdmin1\eventAdmin\eventAdmin-master\eventAdmin\bin\eventAdmin.pdb
+E:\eventAdmin1\eventAdmin\eventAdmin-master\eventAdmin\bin\EventClasses.pdb
+E:\eventAdmin1\eventAdmin\eventAdmin-master\eventAdmin\bin\EventDBClasses.pdb
+E:\eventAdmin1\eventAdmin\eventAdmin-master\eventAdmin\bin\EventPropsClasses.pdb
+E:\eventAdmin1\eventAdmin\eventAdmin-master\eventAdmin\bin\ToolsCSharp.pdb
+E:\eventAdmin1\eventAdmin\eventAdmin-master\eventAdmin\obj\Debug\eventAdmin.csprojResolveAssemblyReference.cache
+E:\eventAdmin1\eventAdmin\eventAdmin-master\eventAdmin\obj\Debug\eventAdmin.dll
+E:\eventAdmin1\eventAdmin\eventAdmin-master\eventAdmin\obj\Debug\eventAdmin.pdb
